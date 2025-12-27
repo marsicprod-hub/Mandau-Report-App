@@ -1,0 +1,7 @@
+{
+  "name": "Smart Report WinUI",
+  "description": "A high-performance network incident reporting tool with AI-powered extraction, root cause analysis, and executive summary generation, optimized for Windows Desktop environments.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
